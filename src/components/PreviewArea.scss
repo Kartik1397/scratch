@@ -1,0 +1,18 @@
+.PreviewArea {
+  padding: 10px;
+  .Controls {
+    display: flex;
+    height: 60px;
+    align-items: center;
+
+    .button {
+      margin-right: 10px;
+      background-color: #C9DFFA;
+      border: 2px solid #4B96ED;
+      padding: 5px 20px;
+      font-family: Arial, Helvetica, sans-serif;
+      cursor: pointer;
+      user-select: none;
+    }
+  }
+}
